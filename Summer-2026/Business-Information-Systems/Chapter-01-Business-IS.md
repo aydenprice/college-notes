@@ -1,7 +1,7 @@
 # Chapter 1 - The Importance of MIS
 
 > **Note:** See `EnablingBusinessWithISLecture1.docx` for figures.
- https://docs.google.com/document/d/1JsAxAA141Uyy25iPMyUTJsYTJkrBqhCXIPsR1GZJGm0/edit?tab=t.0
+https://docs.google.com/document/d/1JsAxAA141Uyy25iPMyUTJsYTJkrBqhCXIPsR1GZJGm0/edit?tab=t.0
 
 ---
 
