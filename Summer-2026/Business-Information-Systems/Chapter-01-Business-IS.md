@@ -1,320 +1,446 @@
-Chapter 1: The importance of MIS
-Note: **SEE EnablingBusinessWithISLecture1.docx for FIGURES**
-https://docs.google.com/document/d/1JsAxAA141Uyy25iPMyUTJsYTJkrBqhCXIPsR1GZJGm0/edit?tab=t.0
+# Chapter 1 - The Importance of MIS
 
+> **Note:** See `EnablingBusinessWithISLecture1.docx` for figures.
+ https://docs.google.com/document/d/1JsAxAA141Uyy25iPMyUTJsYTJkrBqhCXIPsR1GZJGm0/edit?tab=t.0
 
-=========================================================================================================
-Q1-1: Why is Introduction to MIS the Most Important Class in the Business School?
+---
 
-Moore's Law
-- The cost of data processing, communications, and storage continues to decrease.
+# Q1-1: Why is Introduction to MIS the Most Important Class in the Business School?
 
-Introduction to MIS is Important Because:
-- Future business professionals need to:
-    - Assess, analyze, and apply emerging information technologies to business.
+## Moore's Law
 
---------------------------------------------------
+* The cost of:
 
-Q1-1: How Can I Attain Job Security? (2 of 5)
+  * Data processing
+  * Communications
+  * Storage
 
-RAND Corporation - 21st Century Skills
-- "Shifts in the nature of organizations favor strong nonroutine cognitive skills."
+continues to decrease over time.
 
-Nonroutine Cognitive Skills
-- Skills that go beyond repetitive tasks and focus on:
-    - Higher-level thinking
-    - Problem solving
-    - Adaptability
-- Often associated with knowledge workers rather than manual labor.
-- Difficult to automate with AI.
+## Why Intro to MIS Matters
 
-Examples:
-- Critical thinking
-- Creativity
-- Complex communication
-- Analyzing and synthesizing information from multiple sources
+Future business professionals need to:
 
---------------------------------------------------
+* Assess emerging technologies
+* Analyze business needs
+* Apply information technology to business problems
 
-Q1-1: How Can Intro to MIS Help You Learn Employability Skills? (3 of 5)
+---
 
-Nonroutine Skills
+## Job Security and 21st Century Skills
 
-Abstract Reasoning
-- Working with models and understanding, manipulating, and applying them.
+### RAND Corporation Findings
 
-Systems Thinking
-- Understanding how different parts of a system interact.
-- Understanding relationships between inputs, processes, and outputs.
+> "Shifts in the nature of organizations favor strong nonroutine cognitive skills."
 
-Collaboration
-- Effectively giving and receiving constructive feedback to achieve shared goals.
+### Nonroutine Cognitive Skills
 
-Ability to Experiment
-- Using analytical approaches to test new ideas and develop effective solutions.
-- Often developed through experience and trial and error.
+Skills that go beyond repetitive work and focus on:
 
---------------------------------------------------
+* Higher-level thinking
+* Problem solving
+* Adaptability
 
-Q1-1: Why is Introduction to MIS the Most Important Class in the Business School? (4 of 5)
+These skills are:
 
-Figure 1-4: IS Job History and Forecast Growth
+* Associated with knowledge workers
+* Difficult to automate with AI
 
-Jobs / Employment
-- IS-related employment has steadily increased.
-- IS jobs have consistently grown faster than non-IS jobs.
-- Knowledge of information systems creates additional opportunities and job security.
+### Examples
 
---------------------------------------------------
+* Critical thinking
+* Creativity
+* Complex communication
+* Analyzing and synthesizing information from multiple sources
 
-Q1-1: Why is Introduction to MIS the Most Important Class in the Business School? (5 of 5)
+---
 
-BOTTOM LINE
+## Employability Skills Learned Through MIS
 
-MIS is the most important course you'll take because it:
-- Teaches how to assess, analyze, and apply emerging information technologies to business.
-- Develops valuable employability skills:
-    - Abstract reasoning
-    - Systems thinking
-    - Collaboration
-    - Experimentation
-- Increases career opportunities and job security due to growing demand for IS professionals.
+### Abstract Reasoning
 
-=========================================================================================================
-// Q1-2 What is MIS? (1 of 5)
+* Working with models
+* Understanding, manipulating, and applying models
 
-Overview: 
-    - Management Information Systems
-        - Processes, information msystems, and information
-        - Creating, monitoring, and adapting
-        - Achieve strategies 
+### Systems Thinking
 
---------------------------------------------------
-// Q1-2 What is MIS? (2 of 5)
+* Understanding how different parts of a system interact
+* Understanding relationships between:
 
-    - Processes, information systems, and information
-        - Process is a way of doing something
-        - Information systems are a collection of components producing information from data 
-        - Information is meaningful insight to help employees do their jobs 
+  * Inputs
+  * Processes
+  * Outputs
 
---------------------------------------------------
-// Q1-2 What is MIS? (3 of 5)
+### Collaboration
 
-    - Creating, monitoring, and adapting
-        - Management (MIS)
-            - Creation, monitoring, and adapting of processes, information systems, and information 
-        - Use:
-            - Tasks and wide range of responsibilities
-                - Ensuring security of both information and the systems 
-                - Preparing for unexpected events (mitigation plan) 
+* Giving constructive feedback
+* Receiving constructive feedback
+* Working toward shared goals
 
---------------------------------------------------
-// Q1-2 What is MIS? (4 of 5) 
+### Ability to Experiment
 
-    - Achieve Strategies 
-        - Processes, information systems, and information need to be created for the purpose of achieving the organizations strategy 
-        - Must meet a business "need" 
+* Testing new ideas analytically
+* Developing effective solutions
+* Learning through experience and trial and error
 
-    Real value comes from aligning processes geared towards specific business needs 
-    Key is to ensure MIS initiatives supports the overall strategy of organization 
+---
 
---------------------------------------------------
-// Q1-2 What is MIS? (5 of 5) (SUMMARY) 
+## IS Job Growth
 
-BOTTOM LINE 
+### Figure 1-4: IS Job History and Forecast Growth
 
-Management Information Systems
+Key observations:
 
-     - Processes, information systems, and information (3 key elements)
-        - Overseeing and coordinating these components is what defines MIS 
-    - Management and use 
-    - Achieve strategies 
-    - True power of MIS lies in its ability to help organizations achieve goals 
+* IS-related employment continues to increase
+* IS jobs grow faster than non-IS jobs
+* Information systems knowledge creates:
 
-=========================================================================================================
-// Q1-3 How does MIS Relate to Organizational Strategy?
+  * More opportunities
+  * Greater job security
 
-**See Figure 1-6 Organizational Strategy Determines MIS** 
+---
 
-- Starts with industry structure which is analyzed using the Porter's Five forces (in book) 
-    - Forces include threat of substitutes, threat of new entrants , existing rivals, bargaining power of suppliers, and bargaining power of customers 
-    - These forces help determine the organizations competitive strategy
-        ex. Offering best product at lowest cost 
+## Bottom Line
 
-This template guides the design for whatever strategy chosen
-MIS is ideally going to be developed to align with this template 
+MIS is one of the most important courses because it:
 
-=========================================================================================================
-// Q1-4 What Five Forces Determine Industry Structure? (1 of 4)
+* Teaches how to assess, analyze, and apply emerging technologies
+* Develops valuable employability skills:
 
-**See Figure 1-7 Examples of Five Forces** 
-    - Three competitive forces 
-    - Two bargaining power forces 
+  * Abstract reasoning
+  * Systems thinking
+  * Collaboration
+  * Experimentation
+* Increases career opportunities
+* Improves job security due to growing demand for IS professionals
 
---------------------------------------------------
-// Q1-4 What Five Forces Determine Industry Structure? (2 of 4)
+---
 
-Competitive Forces 
-    - Competition from substitutes
-    - Competition from new entrants 
-    - Competition from existing rivals 
-    
-- While these determine the competitive landscape, they also guide various business strategies 
-Ex. Nintendo - Knowing customers have few alternatives for products like that 
+# Q1-2: What is MIS?
 
---------------------------------------------------
-// Q1-4 What Five Forces Determine Industry Structure? (3 of 4)
+## Overview
 
-- Bargaining Power Forces 
-    - Bargaining power of suppliers 
-    - Bargaining power of customers 
+Management Information Systems (MIS) focuses on:
 
-Economic principles (particularly supply/demand) play a big role with bargaining power within industry 
-- This is not static unfortunately as many of these markets have constantly changing factors 
+* Processes
+* Information Systems
+* Information
 
-Ex. Housing market - With an abundance of choices, customers can negotiate easier 
+MIS involves:
 
---------------------------------------------------
-// Q1-4 What Five Forces Determine Industry Structure? (4 of 4)
+* Creating
+* Monitoring
+* Adapting
 
-**See Figure 1-8 Five Forces at Walmart**
+these components to achieve organizational goals and strategies.
 
-Walmart Example 
-    - Most significant challenge Walmart faces is rise of e-commerce, competition against Amazon, etc. 
-    - To maintain leadership position, its IS initiatives need to be closely aligned with these competitive pressures 
-    - Ecommerce is going to enable Walmart to quickly respond to market changes Amazon brings 
-    
-    - Though it can be easy to aim for weaker competitives forces, these strategies do not address core threats that could impact long term
-     success 
-=========================================================================================================
-// Q1-5 What is Competitive Strategy?
+---
 
-**See Figure 1-9 Porter's Four Competitive Strategies 
+## Processes, Information Systems, and Information
 
-- Cost leadership
-- Differentiation 
-- Industry wide 
-- Focused or niche approaches 
+### Process
 
-A cost leader competes by offering lower prices across the entire industry (Walmart) 
+A way of doing something.
 
-Organizations can pursue differentiation by offering unique products/services (LinkedIn focused on professionals) 
+### Information System
 
-Essentially, these strategies help organizations decide whether to compete broadly across the industry / focus on niches 
+A collection of components that produce information from data.
 
-=========================================================================================================
-// Q1-6 How Does Competitive Strategy Determine Value Chain Structure? (1 of 4) 
+### Information
 
-- Value 
-- Margin 
-- Value Chain 
-    - Primary activities 
-    - Support activities 
+Meaningful insight that helps employees perform their jobs.
 
-- Value described as the amount a customer is willing to pay for a product 
-- Margin is the difference between this value and the cost of performing this activity 
-- Positive margin means activity adds value / Negative opposite 
+---
 
-- Value chain is the collecction of all valuie creating activities in an organization divided into Primary (sales), Support (HR, Technology) 
+## Creating, Monitoring, and Adapting
 
---------------------------------------------------
-// Q1-6 How Does Competitive Strategy Determine Value Chain Structure? (2 of 4) 
+### Management Responsibilities
 
-- Primary activities
-    - Each of these contributes to delivering value to customers, but depends on organizations strategy
+MIS involves:
 
-Ex. Disney World pursues differenitation to provide unique experience unlike other parks 
+* Creating processes
+* Monitoring systems
+* Adapting information resources
 
-**See Figure 1-10 Primary Activities in the Value Chain** 
+### Common Responsibilities
 
---------------------------------------------------
-// Q1-6 How Does Competitive Strategy Determine Value Chain Structure? (3 of 4)
+* Ensuring system security
+* Protecting information
+* Preparing for unexpected events
+* Developing mitigation plans
 
-- Support Activities 
-    - Procurement
-    - Technology 
-    - Human Resources 
-    - Firm Infrastructure 
+---
 
-- Support activities indirectly assist and enhance the effectiveness of the primary activities within the value chain 
+## Achieving Strategy
 
-- Procurement plays a crucial role in supporting inbound logistics by ensuring the organization gets right resources 
-- Technology includes research/development which drives innovation and efficiency
-- HR covers essential tasks such as recruituing, compensation, training, development, etc. 
-- Firm Infrastructure includes general management, finance, accounting, legal services, government relations, etc. 
+Processes, information systems, and information should:
 
---------------------------------------------------
-// Q1-6 How Does Competitive Strategy Determine Value Chain Structure? (4 of 4)
+* Support organizational strategy
+* Address a specific business need
 
-- Value Chain Linkages 
-    - Interactions across value chain activities 
+### Key Idea
 
-Understanding these links is essential in seeing how different activities in the value chain work together 
+The real value of MIS comes from aligning technology and processes with business goals.
 
-Ex. Manufacturing system can be integrated with sales system by using sales forecast from sales team, creating accurate production plans 
+---
 
-=========================================================================================================
-// Q1-7 How Does Competitive Strategy Determine Business Processess and Information Systems? (1 of 2)
+## Bottom Line
 
-- Business Processes 
-    - Driven by competitive strategy
-    - The IS must support these processes 
-    - Once defined, the requirement for IS should naturally follow
-    - Systems are then developed/implemented/enhanced to support and optimize the processes 
+MIS consists of:
 
-    In a competitive strategy shapes how operations go on a day to day basis 
+* Processes
+* Information Systems
+* Information
 
---------------------------------------------------
-// Q1-7 How Does Competitive Strategy Determine Business Processess and Information Systems? (2 of 2)
+MIS is the management and coordination of these elements to help organizations achieve strategic goals.
 
-- Information Systems 
-    - Supports business processes 
-    - The activities within the value chain are specifically structured for this 
+---
 
-=========================================================================================================
-Ethics guide
+# Q1-3: How Does MIS Relate to Organizational Strategy?
 
-    - Ethics and Professional Responsibility
-        - Categorical Imperative 
-            - Ethical principle that says act only in ways you would be comfortable seeing become universal laws 
-            - Before taking any action, consider whether you want everyone else to act in the same way 
-            
+> See Figure 1-6: Organizational Strategy Determines MIS
 
+Organizational strategy begins with understanding industry structure.
 
+### Porter's Five Forces
 
+* Threat of substitutes
+* Threat of new entrants
+* Existing rivals
+* Bargaining power of suppliers
+* Bargaining power of customers
 
+These forces influence the organization's competitive strategy.
 
+### Example
 
+* Offering the best product at the lowest cost
 
+MIS should be designed to support and align with the organization's chosen strategy.
 
+---
 
+# Q1-4: What Five Forces Determine Industry Structure?
 
+## Overview
 
+Industry structure is influenced by:
 
+### Competitive Forces
 
+* Competition from substitutes
+* Competition from new entrants
+* Competition from existing rivals
 
+### Bargaining Power Forces
 
+* Bargaining power of suppliers
+* Bargaining power of customers
 
+---
 
+## Competitive Forces
 
+These determine the competitive landscape and influence business strategy.
 
+### Example: Nintendo
 
+Nintendo benefits when customers have limited alternatives to its products.
 
+---
 
+## Bargaining Power Forces
 
+Economic principles such as supply and demand affect bargaining power.
 
+### Example: Housing Market
 
+When customers have many options available, they gain stronger negotiating power.
 
+---
 
+## Walmart Example
 
-Q1-3 How does MIS relate to organizational strategy?
+> See Figure 1-8: Five Forces at Walmart
 
+Key challenges:
 
+* Growth of e-commerce
+* Competition from Amazon
 
-Q1-4 What five forces determinme industry structure?
+To remain competitive, Walmart must:
 
-Q1-5 What is competitive strategy?
+* Align IS initiatives with market pressures
+* Use technology to respond quickly to changes
 
-Q1-6 How does competitive strategy determine value chain structure?
+### Key Idea
 
-Q1-7 How does competitive strategy determine business processes and information systems?
+Organizations should focus on addressing major competitive threats rather than simply pursuing weaker competition.
+
+---
+
+# Q1-5: What is Competitive Strategy?
+
+> See Figure 1-9: Porter's Four Competitive Strategies
+
+## Major Strategies
+
+### Cost Leadership
+
+Compete through lower prices across an industry.
+
+**Example:** Walmart
+
+### Differentiation
+
+Compete through unique products or services.
+
+**Example:** LinkedIn's focus on professionals
+
+### Scope Options
+
+* Industry-wide strategy
+* Focused (niche) strategy
+
+### Key Idea
+
+Organizations must decide:
+
+* Whether to compete broadly
+* Whether to target a specific niche
+
+---
+
+# Q1-6: How Does Competitive Strategy Determine Value Chain Structure?
+
+## Key Terms
+
+### Value
+
+The amount a customer is willing to pay for a product or service.
+
+### Margin
+
+The difference between:
+
+* Customer value
+* Cost of performing an activity
+
+Positive margin = value added.
+
+### Value Chain
+
+The collection of value-creating activities within an organization.
+
+Includes:
+
+* Primary activities
+* Support activities
+
+---
+
+## Primary Activities
+
+Primary activities directly contribute to customer value.
+
+### Example: Disney World
+
+Disney uses differentiation by creating a unique customer experience.
+
+> See Figure 1-10: Primary Activities in the Value Chain
+
+---
+
+## Support Activities
+
+### Procurement
+
+Obtaining necessary resources.
+
+### Technology
+
+Research and development that improves innovation and efficiency.
+
+### Human Resources
+
+Includes:
+
+* Recruiting
+* Compensation
+* Training
+* Development
+
+### Firm Infrastructure
+
+Includes:
+
+* Management
+* Finance
+* Accounting
+* Legal services
+* Government relations
+
+Support activities improve the effectiveness of primary activities.
+
+---
+
+## Value Chain Linkages
+
+Value chain linkages are interactions between activities.
+
+### Example
+
+A manufacturing system can use sales forecasts to create more accurate production plans.
+
+### Key Idea
+
+Understanding these connections helps organizations operate more efficiently.
+
+---
+
+# Q1-7: How Does Competitive Strategy Determine Business Processes and Information Systems?
+
+## Business Processes
+
+Business processes are:
+
+* Driven by competitive strategy
+* Structured around organizational goals
+
+Once processes are defined:
+
+* Information system requirements become clearer
+* Systems can be developed or enhanced to support those processes
+
+### Key Idea
+
+Competitive strategy shapes day-to-day operations.
+
+---
+
+## Information Systems
+
+Information systems:
+
+* Support business processes
+* Help execute competitive strategy
+* Support activities throughout the value chain
+
+Organizations develop information systems specifically to improve and optimize their chosen processes.
+
+---
+
+# Ethics Guide
+
+## Ethics and Professional Responsibility
+
+### Categorical Imperative
+
+An ethical principle stating:
+
+> Act only in ways you would be comfortable seeing become universal laws.
+
+Before taking action, ask:
+
+* Would I want everyone else to act this way?
+* Would this behavior be acceptable if universally adopted?
