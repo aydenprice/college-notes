@@ -1,45 +1,57 @@
 # Chapter 3 - Cloud Computing
 
-# Table of Contents
+> **Note:** Figures are screenshots from lecture slides.
 
-1. Overview
-2. Q3-1: What Do Business Professionals Need to Know About Networks and the Internet?
+## Table of Contents
 
-   * Network Types
-   * Wireless Network Options
-   * Connecting a LAN to the Internet
-   * Common Internet Connection Types
-3. How Does Data Move Over a Network?
+* [Overview](#overview)
+* [Q3-1: What Do Business Professionals Need to Know About Networks and the Internet?](#q3-1-what-do-business-professionals-need-to-know-about-networks-and-the-internet)
 
-   * Key Concepts
-   * Protocols
-   * TCP/IP Protocol Architecture
-   * Addressing
-   * Languages
-4. How Does a Typical Web Server Move Data on a Network?
+  * Network Types
+  * Wireless Network Options
+  * Connecting a LAN to the Internet
+  * Common Internet Connection Types
+* [How Does Data Move Over a Network?](#how-does-data-move-over-a-network)
 
-   * Three-Tier Architecture
-   * Important Terms
-5. Why Is the Cloud the Future for Most Organizations?
+  * Protocols
+  * TCP/IP Protocol Architecture
+  * Addressing
+  * Languages
+  * SOA, Carriers, and IoT
+* [How Does a Typical Web Server Move Data on a Network?](#how-does-a-typical-web-server-move-data-on-a-network)
 
-   * The Cloud
-   * Characteristics of Cloud Computing
-   * Why the Cloud is Preferred to In-House Hosting
-   * Why Now?
-   * Outsourcing
-6. What Are the Typical Cloud Options?
+  * Three-Tier Architecture
+  * Web Servers and Web Farms
+* [Why Is the Cloud the Future for Most Organizations?](#why-is-the-cloud-the-future-for-most-organizations)
 
-   * Public Cloud Options (SaaS, PaaS, IaaS)
-   * Private Cloud
-7. Ethics Guide
+  * Characteristics of Cloud Computing
+  * Cloud vs. In-House Hosting
+  * Why Now?
+  * Outsourcing
+* [What Are the Typical Cloud Options?](#what-are-the-typical-cloud-options)
 
-   * Showrooming: The Consequences
+  * Software as a Service (SaaS)
+  * Platform as a Service (PaaS)
+  * Infrastructure as a Service (IaaS)
+  * Private Cloud
+* [Ethics Guide](#ethics-guide)
+* [Chapter Summary](#chapter-summary)
 
 ---
 
-# Overview
+## Overview
 
-This chapter examines how networks, the Internet, and cloud computing support modern organizations. It covers the fundamentals of network communication, how data moves across the Internet, web server architecture, cloud computing models, and common cloud service options.
+This chapter examines how computer networks, the Internet, and cloud computing support modern organizations. Understanding how devices communicate, how web applications operate, and how cloud services are delivered is essential for business professionals working in today's technology-driven environment.
+
+The chapter explores:
+
+* Network fundamentals
+* Internet communication
+* Data movement across networks
+* Web server architecture
+* Cloud computing
+* Cloud service models
+* Outsourcing and ethical considerations
 
 ---
 
@@ -47,58 +59,134 @@ This chapter examines how networks, the Internet, and cloud computing support mo
 
 ## Network Types
 
+Organizations use several types of networks depending on the size and scope of communication required.
+
 ### Personal Area Network (PAN)
 
-* Devices connected around a single person.
-* Example: Smartphone connected to wireless earbuds.
+A **Personal Area Network (PAN)** connects devices around a single person.
+
+Examples:
+
+* Smartphone and smartwatch
+* Smartphone and wireless earbuds
+* Laptop and Bluetooth mouse
+
+---
 
 ### Local Area Network (LAN)
 
-* Devices connected within a single site or location.
-* Example: Home, office, or school network.
+A **Local Area Network (LAN)** connects devices within a single location.
+
+Examples:
+
+* Home network
+* School network
+* Office network
+
+LANs are typically fast and managed by a single organization.
+
+---
 
 ### Wide Area Network (WAN)
 
-* Devices connected across multiple sites or geographic locations.
-* Example: Corporate network connecting offices in different cities.
+A **Wide Area Network (WAN)** connects devices across multiple locations.
+
+Examples:
+
+* Corporate offices in different cities
+* University campuses connected across regions
+
+WANs allow organizations to share information over large geographic areas.
+
+---
 
 ### Internet
 
-* A network of networks.
-* Connects billions of devices worldwide.
+The **Internet** is a network of networks.
 
-**Figure 3-1: Basic Network Types**
+It connects:
+
+* Individuals
+* Businesses
+* Governments
+* Educational institutions
+
+The Internet allows communication and information sharing worldwide.
+
+---
+
+### Figure 3-1: Basic Network Types
+
+*(Insert lecture screenshot)*
 
 ---
 
 ## Wireless Network Options
 
+Many networks use wireless technologies to connect devices.
+
 ### Bluetooth
 
-* Short-range wireless communication between devices.
+* Short-range wireless communication
+* Commonly used for accessories and personal devices
+
+Examples:
+
+* Wireless headphones
+* Smartwatches
+* Keyboards
+
+---
 
 ### Wi-Fi
 
-* Wireless connection to a local network and the Internet.
+* Provides wireless access to a LAN
+* Most common method of Internet access in homes and businesses
+
+Benefits:
+
+* Mobility
+* Convenience
+* High-speed connectivity
+
+---
 
 ### Cellular
 
-* Uses mobile carrier networks for Internet access.
+* Uses mobile carrier networks
+* Provides Internet access without Wi-Fi
 
-**Figure 3-2: Typical Small Office/Home Office**
+Examples:
+
+* 4G
+* 5G
+
+---
+
+### Figure 3-2: Typical Small Office/Home Office
+
+*(Insert lecture screenshot)*
 
 ---
 
 ## Connecting a LAN to the Internet
 
+Organizations connect local networks to the Internet through an **Internet Service Provider (ISP).**
+
 ### Internet Service Provider (ISP)
 
 An ISP:
 
-* Provides Internet access.
-* Assigns a unique Internet address.
-* Acts as a gateway to the Internet.
-* Pays for and maintains Internet infrastructure.
+* Provides Internet access
+* Assigns a unique Internet address
+* Serves as a gateway to the Internet
+* Maintains and pays for Internet infrastructure
+
+Examples include:
+
+* Comcast
+* AT&T
+* Spectrum
 
 ---
 
@@ -106,23 +194,56 @@ An ISP:
 
 ### Digital Subscriber Line (DSL)
 
-* Uses traditional telephone lines.
-* Designed so Internet use does not interfere with phone calls.
+DSL:
+
+* Uses traditional telephone lines
+* Allows Internet access without disrupting phone calls
+
+Advantages:
+
+* Widely available
+* Relatively inexpensive
+
+---
 
 ### Cable/Fiber Internet
 
-* Delivers high-speed Internet access.
-* Commonly uses fiber-optic technology.
+Cable and fiber connections:
+
+* Deliver high-speed Internet access
+* Commonly use fiber-optic technology
+
+Advantages:
+
+* Faster speeds
+* Greater reliability
+* Better performance for streaming and gaming
+
+---
 
 ### WAN Wireless
 
-* Internet access through cellular or other wireless WAN technologies.
+WAN wireless connections:
 
-**Figure 3-5: Summary of LAN Networks**
+* Use cellular networks
+* Provide Internet access when wired connections are unavailable
+
+Examples:
+
+* Mobile hotspots
+* Cellular routers
+
+---
+
+### Figure 3-5: Summary of LAN Networks
+
+*(Insert lecture screenshot)*
 
 ---
 
 # How Does Data Move Over a Network?
+
+Several technologies work together to move information between devices.
 
 ## Key Concepts
 
@@ -137,274 +258,50 @@ An ISP:
 
 ## Protocols
 
-Protocols are rules that govern communication between devices.
+Protocols are rules that govern communication between devices on a network.
+
+Without protocols, devices would not understand how to exchange information.
 
 ### IEEE 802.3 (Ethernet)
 
-* Standard protocol for wired networks.
+Ethernet is the standard protocol used for wired LAN communication.
 
-**Figure 3-6: You, the Internet, and Instagram**
+Benefits:
+
+* Reliability
+* Speed
+* Standardization
+
+---
+
+### Figure 3-6: You, the Internet, and Instagram
+
+*(Insert lecture screenshot)*
 
 ---
 
 ## TCP/IP Protocol Architecture
 
+The Internet relies on the TCP/IP protocol suite.
+
 ### Transmission Control Protocol (TCP)
 
-* Breaks data into packets.
-* Ensures packets arrive correctly.
+TCP:
+
+* Breaks information into packets
+* Ensures packets arrive correctly
+* Reassembles packets at the destination
 
 ### Internet Protocol (IP)
 
-* Routes packets to their destination.
+IP:
+
+* Identifies devices using IP addresses
+* Routes packets across networks
 
 ### Hypertext Transfer Protocol (HTTP)
 
-* Protocol used to transfer web pages and web content.
+HTTP:
 
----
-
-## Addressing
-
-### IP Address
-
-* Unique numerical address assigned to a device on a network.
-
-### Domain Name
-
-* Human-readable address used to access websites.
-* Multiple domain names can point to the same IP address.
-
-**Figure 3-7: Network Addresses**
-
----
-
-## Languages
-
-### Markup Languages
-
-#### HTML (HyperText Markup Language)
-
-* Standard language used to create web pages.
-
----
-
-# How Does a Typical Web Server Move Data on a Network?
-
-## Three-Tier Architecture
-
-A common web application structure consisting of:
-
-### 1. Presentation Tier
-
-* User interface.
-* Web pages viewed by users.
-
-### 2. Application Tier
-
-* Processes business logic.
-* Handles requests and calculations.
-
-### 3. Data Tier
-
-* Stores and manages data in databases.
-
----
-
-## Important Terms
-
-### Web Page
-
-* Document viewed through a web browser.
-
-### Web Server
-
-* Handles HTTP requests and delivers web content.
-
-### Web Farm (Server Farm)
-
-* Multiple servers working together to improve speed and reliability.
-
-### Example
-
-A login server handles:
-
-* User authentication
-* Account verification
-* Fast and reliable access for users
-
-**Figure 3-10: Three-Tier Architecture**
-
----
-
-# Why Is the Cloud the Future for Most Organizations?
-
-## The Cloud
-
-Traditionally, organizations managed their own IT infrastructure and services internally. Today, many organizations rely on cloud providers to host applications, store data, and manage computing resources.
-
----
-
-## Characteristics of Cloud Computing
-
-### Elastic
-
-* Resources can be scaled up or down as needed.
-
-### Pooled
-
-* Multiple organizations share physical hardware through virtualization.
-
-### Internet-Based
-
-* Services are delivered over the Internet.
-
----
-
-## Why Is the Cloud Preferred to In-House Hosting?
-
-Managing infrastructure internally can be expensive, time-consuming, and difficult to maintain.
-
-Benefits of cloud hosting include:
-
-* Lower costs
-* Reduced maintenance responsibilities
-* Greater flexibility
-* Improved scalability
-* Access to specialized expertise
-
-**Figure 3-14: Comparison of Cloud and In-House Advantages**
-
----
-
-## Why Now?
-
-Cloud computing has existed conceptually since the 1960s, but several factors have made it practical today:
-
-* Processor costs have dramatically decreased.
-* Data storage costs have plummeted.
-* Internet speeds have improved.
-* Cloud services have become highly secure and efficient.
-
----
-
-## Outsourcing
-
-Organizations often outsource services such as:
-
-* Customer support
-* Accounting
-* Cybersecurity
-
-Advantages:
-
-* Lower operating costs
-* Access to specialized skills
-* Increased efficiency
-
-Disadvantages:
-
-* Reduced direct control over operations
-* Dependence on external providers
-
----
-
-# What Are the Typical Cloud Options?
-
-**Figure 3-15: Three Fundamental Cloud Types**
-
----
-
-## Public Cloud Options
-
-### Software as a Service (SaaS)
-
-Example: Microsoft Office 365
-
-The provider manages:
-
-* Hardware
-* Operating system
-* Applications
-
-Users simply access and use the software.
-
----
-
-### Platform as a Service (PaaS)
-
-The provider supplies:
-
-* Computing hardware
-* Operating system
-* Development platform
-* Often database management systems
-
-Developers focus on building applications.
-
----
-
-### Infrastructure as a Service (IaaS)
-
-The provider supplies:
-
-* Virtual servers
-* Storage
-* Networking resources
-
-Organizations manage their own operating systems and applications.
-
----
-
-### Custom Cloud Solutions
-
-Organizations may also create their own cloud environments tailored to specific business needs.
-
----
-
-## Private Cloud
-
-A private cloud is owned and operated solely for one organization.
-
-Common uses:
-
-* Government agencies
-* Organizations with strict security requirements
-* Businesses handling highly sensitive data
-
-Characteristics:
-
-* Greater control
-* Enhanced security
-* Higher costs than public cloud options
-
-Examples:
-
-* Private cloud solutions offered by Microsoft and Amazon
-
----
-
-# Ethics Guide
-
-## Showrooming: The Consequences
-
-### Showrooming
-
-The practice of:
-
-1. Visiting a physical store to examine a product.
-2. Purchasing the same product online at a lower price.
-
-### Ethical Considerations
-
-* Can reduce revenue for physical retailers.
-* May contribute to store closures.
-* Benefits consumers through lower prices.
-* Raises questions about fairness and competition.
-
-### Discussion Questions
-
-* Do you showroom?
-* Is showrooming ethical?
-* How should retailers respond to showrooming?
-* What impact does showrooming have on businesses and consumers?
+* Transfers web pages and web content
+* Allows browsers and web servers to communicate
